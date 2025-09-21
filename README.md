@@ -1,8 +1,8 @@
-<h1>Hi, i'm Vita👋</h1>
-<li>
-  <ol>Go developer in VK Dating❤️</ol>
-  <ol>ITMO CT student(3 course)</ol>
-</li>
+⭐ Go developer in VK Dating ❤️
+
+
+⭐ ITMO CT student(3 course)
+
 
 <!--
 **krabbbit/krabbbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
