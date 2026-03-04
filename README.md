@@ -1,4 +1,4 @@
-⭐ Go developer in VK Dating ❤️
+⭐ Go developer at VK Dating ❤️
 
 
 ⭐ ITMO CT student
